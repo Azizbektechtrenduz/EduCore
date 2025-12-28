@@ -1,0 +1,2 @@
+# EduCore
+EduCore for education.
